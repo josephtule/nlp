@@ -1,2 +1,5 @@
 # nlp
-Implementing algorithms in NLP book by John T. Betts
+
+Attempt to implement nonlinear programming and other optimization algorithms in Rust and MATLAB
+
+
